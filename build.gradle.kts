@@ -12,8 +12,8 @@ plugins {
     id("io.github.goooler.shadow") version "8.1.7"
 }
 
-group = "org.esoteric"
-version = "0.2.1"
+group = "foundation.esoteric"
+version = "0.2.2"
 description = "The core plugin of The Slimy Swamp Minecraft server."
 
 val projectNameString = rootProject.name
@@ -63,7 +63,7 @@ tasks {
 bukkitPluginYaml {
     name = "TSSCore"
     description = project.description
-    authors.addAll("Esoteric Organisation", "Esoteric Enderman")
+    authors.addAll("Esoteric Foundation", "Esoteric Enderman")
 
     version = projectVersionString
     apiVersion = "1.21"

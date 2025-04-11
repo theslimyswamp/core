@@ -1,4 +1,4 @@
-# TSS Core Plugin
+# The Slimy Swamp Core
 
 [![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
 

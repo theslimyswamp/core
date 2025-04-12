@@ -61,7 +61,7 @@ tasks {
 }
 
 bukkitPluginYaml {
-    name = "TSSCore"
+    name = "Core"
     description = project.description
     authors.addAll("Esoteric Foundation", "Esoteric Enderman")
 
